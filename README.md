@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manisha312
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development frameworks
-- 💞️ I’m looking to collaborate on Web development projects
+- 👀 I’m interested in Data Engineering, Big Data, Web Development
+- 🌱 I’m currently learning Hadoop, spark, azure, Web Development frameworks
+- 💞️ I’m looking to collaborate on Data Engineering projects ,  Web development projects
 - 📫 How to reach me www.linkedin.com/in/manishakumari312
 
 
